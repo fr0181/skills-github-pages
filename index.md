@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: test blog :3
 ---
+
+Here is some text.
 
